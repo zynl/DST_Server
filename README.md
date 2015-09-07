@@ -1,7 +1,8 @@
 # 饥荒服务器搭建教程
 ---
 
-`{:toc max_level=3 }`
+* auto-gen TOC:
+{:toc}
 
 [TOC]
 
