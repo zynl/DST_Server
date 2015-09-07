@@ -1,6 +1,7 @@
 #!/bin/bash
 #install screen,
 
+cd ~
 sudo apt-get -y install screen 
 sudo apt-get -y  update
 sudo dpkg --add-architecture i386
