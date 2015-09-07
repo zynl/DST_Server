@@ -1,16 +1,17 @@
 #!/bin/bash
 #install screen,
 
+sudo apt-get -y install screen 
 sudo apt-get -y  update
-sudo apt-get -y install screen
 sudo dpkg --add-architecture i386
 sudo apt-get -y install lib32gcc1
 
+sudo apt-get -y  update
 sudo apt-get -y install lib32stdc++6 # If running a 64bit OS
 sudo apt-get -y install libcurl4-gnutls-dev:i386
-sudo useradd -m steam
+#sudo useradd -m steam
 chmod a+rw `tty`  # Note those are backticks, not single quotes
-sudo su - steam
+#sudo su - steam
 mkdir ~/steamcmd
 cd ~/steamcmd
 wget http://media.steampowered.com/installer/steamcmd_linux.tar.gz
