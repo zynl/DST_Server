@@ -1,6 +1,8 @@
 # 饥荒服务器搭建教程
 ---
 
+`{:toc max_level=3 }`
+
 [TOC]
 
 ##1.安装（Debian 7.x)
