@@ -1,6 +1,6 @@
 # 饥荒服务器搭建教程
 ---
-[TOC]
+{:toc}
 ##1.安装（Debian 7.x)
 ```
 sudo apt-get install -y git vim
