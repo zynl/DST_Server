@@ -1,7 +1,6 @@
 #!/bin/bash
 #install screen,
 
-apt-get -y install screen 
 apt-get -y  update
 dpkg --add-architecture i386
 apt-get -y install lib32gcc1
