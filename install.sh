@@ -14,7 +14,7 @@ chmod a+rw `tty`  # Note those are backticks, not single quotes
 #sudo su - steam
 mkdir ~/steamcmd
 cd ~/steamcmd
-wget http://media.steampowered.com/installer/steamcmd_linux.tar.gz
+wget https://steamcdn-a.akamaihd.net/client/installer/steamcmd_linux.tar.gz
 tar -xvzf steamcmd_linux.tar.gz
 ./steamcmd.sh +@ShutdownOnFailedCommand 1 +@NoPromptForPassword 1 +login anonymous +force_install_dir /home/steam/steamapps/DST +app_update 343050 validate +quit
 mkdir ~/dst_lib && cd ~/dst_lib
