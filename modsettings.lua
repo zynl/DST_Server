@@ -14,3 +14,5 @@ ForceEnableMod("workshop-362175979")    --Wormhole Marks [DST]
 ForceEnableMod("workshop-367546858")    --EZInput
 ForceEnableMod("workshop-439115156")    --[DST] Musha [5.8 F]
 ForceEnableMod("workshop-364491382")    --Faroz Character [DST]
+ForceEnableMod("workshop-451559807")    --cave mod
+ForceEnableMod("workshop-351325790")    --Geometric Placement
