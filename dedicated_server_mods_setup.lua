@@ -14,3 +14,4 @@ ServerModSetup("367546858") --EZInput
 ServerModSetup("439115156") --[DST] Musha [5.8 F]
 ServerModSetup("364491382") --Faroz Character [DST]
 ServerModSetup("451559807") --cave mod
+ServerModSetup("351325790") --Geometric Placement
